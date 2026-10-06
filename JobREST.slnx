@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JobRepositoryTests/JobRepositoryTests.csproj" Id="c89c0981-1510-4d5b-8567-200f995065ee" />
+  <Project Path="JobREST/JobREST.csproj" />
+</Solution>
