@@ -21,8 +21,8 @@ namespace JobREST
             });
 
             // SQLServer
-            builder.Services.AddDbContext<JobDBContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DatabaseConnection")));
+            /*builder.Services.AddDbContext<JobDBContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DatabaseConnection")));*/
 
             // Add services to the container.
 
